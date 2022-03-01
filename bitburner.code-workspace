@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"bitburner.authToken": "l18uxPjqYQf28GoykFwamOQJ4yqZCspip+hufPRlCJfCkbPWrVk+N8JoRv8qaa5I",
+		"bitburner.fileWatcher.enable": true,
+		"bitburner.scriptRoot": "./out",
+		"editor.formatOnSave": true
+	}
+}
